@@ -118,7 +118,7 @@ World Bank UNMAPPED Challenge (Informal Economy Verification) · Singapore AI Ha
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muaviatanveer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A66C2&icon_color=0A66C2" height="165">
+<img src="./github-metrics.svg" width="95%" alt="GitHub Metrics">
 <img src="https://streak-stats.demolab.com/?user=Muaviatanveer&theme=tokyonight&hide_border=true&background=0d1117&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" height="165">
 
 <br>
