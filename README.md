@@ -1,12 +1,12 @@
 <div align="center">
 
-# Muavia Tanveer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=200&section=header&text=Muavia%20Tanveer&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Architect%20%7C%20AI%20Research%20Scientist%20%7C%20Founder%20%40%20NeuroSyn&descAlignY=55&descSize=18" width="100%">
 
-### Systems Architect &nbsp;•&nbsp; Principal Investigator @ AAKS &nbsp;•&nbsp; AI Research Scientist @ IJAIKE &nbsp;•&nbsp; Founder @ NeuroSyn AI
+<a href="https://github.com/Muaviatanveer">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=800&lines=Architecting+verifiable+multi-agent+AI+ecosystems...;Local+LLM+orchestration+%7C+AMD+ROCm+%7C+Ollama+%7C+vLLM;Deterministic+state-space+models+for+high-stakes+enterprise;Zero-hallucination+AI+%7C+Kalman+Filters+%7C+Bayesian+Reasoning" alt="Typing SVG" />
+</a>
 
-*Architecting verifiable multi-agent AI ecosystems, local LLM orchestration, and deterministic state-space models for high-stakes enterprise & research environments.*
-
-<br>
+<br><br>
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--4724--4303-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-4724-4303)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muavia_Tanveer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muavia-tanveer-9a6856328/)
@@ -40,8 +40,8 @@ World Bank UNMAPPED Challenge (Informal Economy Verification) · Singapore AI Ha
 |:--|:--|
 | 🔗 ORCID | [`0009-0006-4724-4303`](https://orcid.org/0009-0006-4724-4303) |
 | 🔗 Web of Science ResearcherID | `QSO-1958-2026` |
-| 🔗 arXiv | `muavia12._` |
-| 🔗 ScholarOne | ManuscriptCentral |
+| 🔗 arXiv | `muavia12_` |
+| 🔗 ScholarOne | ManuscriptCentral (`muaviakha83@gmail.com`) |
 
 </td>
 </tr>
@@ -81,7 +81,7 @@ World Bank UNMAPPED Challenge (Informal Economy Verification) · Singapore AI Ha
 <td width="85%">
 <b>Day-Zero Audit Engine.</b> Connects to SAP RFC/BAPI interfaces, executing sandboxed Python statistical joins (<code>pandas</code>/<code>numpy</code>) and multi-agent compliance audits to collapse audit cycles from 10 days to &lt;24 hours.
 <br><br>
-<a href="https://github.com/Muaviatanveer/LogosSyn"><img src="https://img.shields.io/badge/Repository-View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://github.com/Muaviatanveer/NeuroSyn-Dev"><img src="https://img.shields.io/badge/Repository-View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
 </td>
 </tr>
 </table>
@@ -114,6 +114,33 @@ World Bank UNMAPPED Challenge (Informal Economy Verification) · Singapore AI Ha
 
 <br>
 
+## 📊 Live Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Muaviatanveer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A66C2&icon_color=0A66C2" height="165">
+<img src="https://streak-stats.demolab.com/?user=Muaviatanveer&theme=tokyonight&hide_border=true&background=0d1117&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" height="165">
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muaviatanveer&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0A66C2&line=0A66C2&point=ffffff" width="95%">
+
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Muaviatanveer/Muaviatanveer/output/github-contribution-grid-snake.svg" width="95%">
+
+<sub>Animated snake auto-generated nightly from contribution graph — set up via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action on your profile repo.</sub>
+
+</div>
+
+<br>
+
 ## 🌐 Live Portals & Platforms
 
 | Platform | Link |
@@ -126,10 +153,14 @@ World Bank UNMAPPED Challenge (Informal Economy Verification) · Singapore AI Ha
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:181717&height=3&width=1200" width="100%">
-
 ### 📫 Open for research partnerships, architectural consulting, and high-compliance enterprise AI implementations
 
 **[Email](mailto:muaviakha83@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/muavia-tanveer-9a6856328/)** · **[ORCID](https://orcid.org/0009-0006-4724-4303)**
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Muaviatanveer&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,100:0A66C2&height=120&section=footer" width="100%">
 
 </div>
