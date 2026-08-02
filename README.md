@@ -1,112 +1,135 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0B&height=200&section=header&text=MUAVIA%20TANVEER&fontSize=46&fontColor=FFFFFF&fontAlignY=45&desc=Building%20reliable%2C%20verifiable%20AI%20systems&descAlignY=62&descSize=16&descColor=3B82F6" width="100%"/>
+# Muavia Tanveer
 
-<br/>
+### Systems Architect &nbsp;•&nbsp; Principal Investigator @ AAKS &nbsp;•&nbsp; AI Research Scientist @ IJAIKE &nbsp;•&nbsp; Founder @ NeuroSyn AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Lead+Architect+%40+NeuroSyn+Cognitive+Systems" alt="Typing SVG" />
+*Architecting verifiable multi-agent AI ecosystems, local LLM orchestration, and deterministic state-space models for high-stakes enterprise & research environments.*
 
-<br/>
+<br>
 
-<a href="https://www.linkedin.com/in/muavia-tanveer-9a6856328"><img src="https://img.shields.io/badge/LinkedIn-161616?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:muaviatanveer27@gmail.com"><img src="https://img.shields.io/badge/Email-161616?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Muaviatanveer"><img src="https://img.shields.io/badge/GitHub-161616?style=flat-square&logo=github&logoColor=white"/></a>
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--4724--4303-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-4724-4303)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muavia_Tanveer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muavia-tanveer-9a6856328/)
+[![Email](https://img.shields.io/badge/Email-muaviakha83%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muaviakha83@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Platform-neurosyn.onrender.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://neurosyn.onrender.com/)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:181717&height=3&width=1200" width="100%">
 
 </div>
 
-<br/>
+<br>
 
-## About
-
-I design autonomous, multi-agent AI systems built for **self-auditing, deterministic execution, and formal verification** — closing the "Decision Latency" gap that keeps most enterprises from trusting AI with high-stakes decisions.
-
-Currently studying Computer Science & AI at The University of Lahore, and serving on the **Readers Committee at IJAIKE**, the International Journal of AI & Knowledge Engineering.
-
-<br/>
-
-## Current Focus
-
-- Architecting **NeuroSyn**, a sovereign multi-agent reasoning framework for enterprise environments
-- Co-authoring peer-reviewed research on System 3 metacognitive reasoning with Dr. Biren Prasad
-- Building **air-gapped AI deployment** pipelines for regulated, high-security industries
-
-<br/>
-
-## Featured Products
+## 🔬 Academic & Institutional Credentials
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**SAP-Synapse**
-Enterprise financial forensics engine. Processes 15,000+ row ERP datasets, cutting audit cycles from 10 days to 24 hours.
+**IJAIKE Readers Committee**
+Editorial Reviewer for the *International Journal of Artificial Intelligence and Knowledge Engineering*, governed by NASA & Siemens veterans.
 
-</td>
-<td width="50%">
-
-**NeuroSyn-Aero**
-Aerospace diagnostics grounded in NASA C-MAPSS telemetry. Predicts turbofan failure cascades via counterfactual simulation.
+**Institutional Validation**
+World Bank UNMAPPED Challenge (Informal Economy Verification) · Singapore AI Hackathon (National Scam Defense)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**NeuroSyn-Dev**
-Autonomous DevSecOps agent with local-to-cloud model routing, automated PR generation, and multi-agent code review.
+**Scientific Registries**
 
-</td>
-<td width="50%">
-
-**Scam-Sense** 🏆 *3rd Place, Singapore GMI Hackathon*
-Multimodal cognitive-defense system detecting social engineering and manipulation patterns in real time.
+| Registry | ID |
+|:--|:--|
+| 🔗 ORCID | [`0009-0006-4724-4303`](https://orcid.org/0009-0006-4724-4303) |
+| 🔗 Web of Science ResearcherID | `QSO-1958-2026` |
+| 🔗 arXiv | `muavia12._` |
+| 🔗 ScholarOne | ManuscriptCentral |
 
 </td>
 </tr>
 </table>
 
-<br/>
+<br>
 
-## Research
+## ⚡ Featured Systems Architecture — The NeuroSyn Suite
 
-**NeuroSyn: A Sovereign Cognitive Fabric for System 3 Metacognitive Reasoning in Enterprise AI**
-*Co-authored with Dr. Biren Prasad — submitted to IEEE Access*
+<table>
+<tr>
+<td width="15%" align="center"><h3>🚀</h3><b>NeuroSyn-Dev</b><br><sub>Autonomous Engineering OS</sub></td>
+<td width="85%">
+<b>AMD ROCm + Cloud Hybrid Split.</b> Features AST parsing, Directed Acyclic Graph (DAG) task planning, and local <code>Qwen2.5-Coder</code> (AMD GPU) + <code>Gemma-27B</code> (Fireworks Cloud) routing. Executes code in isolated Docker containers with runtime self-healing.
+<br><br>
+<a href="https://github.com/Muaviatanveer/NeuroSyn-Dev"><img src="https://img.shields.io/badge/Repository-View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+</td>
+</tr>
+<tr>
+<td width="15%" align="center"><h3>🛸</h3><b>NeuroSyn-Aero</b><br><sub>Aerospace Diagnostics & PHM</sub></td>
+<td width="85%">
+<b>Physics-Grounded AI.</b> Eliminates numerical hallucinations by combining 5D Discrete Kalman Filters (DKF) and Bayesian Competing Hypotheses (BCH) over 20kHz NASA IMS sensor streams with a parallelized multi-agent specialist debate layer.
+<br><br>
+<a href="https://github.com/Muaviatanveer/NeuroSyn-Aero"><img src="https://img.shields.io/badge/Repository-View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+</td>
+</tr>
+<tr>
+<td width="15%" align="center"><h3>🤖</h3><b>NeuroSyn-Copilot</b><br><sub>Autonomous AI Workforce</sub></td>
+<td width="85%">
+<b>100% Local Inference.</b> CLI-deployed (<code>npx neurosyn-copilot-os</code>) multi-agent workforce (Node.js/Ollama) that parses spreadsheets/PDFs into editable vector slide decks (PPTX), Word briefs, and PDF reports rated by a custom <b>NeuroScore™</b>.
+<br><br>
+<a href="https://github.com/Muaviatanveer/NeuroSyn-Copilot"><img src="https://img.shields.io/badge/Repository-View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+</td>
+</tr>
+<tr>
+<td width="15%" align="center"><h3>💼</h3><b>SAP-Synapse Engine</b><br><sub>Enterprise ERP Forensics</sub></td>
+<td width="85%">
+<b>Day-Zero Audit Engine.</b> Connects to SAP RFC/BAPI interfaces, executing sandboxed Python statistical joins (<code>pandas</code>/<code>numpy</code>) and multi-agent compliance audits to collapse audit cycles from 10 days to &lt;24 hours.
+<br><br>
+<a href="https://github.com/Muaviatanveer/NeuroSyn-Dev"><img src="https://img.shields.io/badge/Repository-View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+</td>
+</tr>
+</table>
 
-Introduces a five-stage cognitive pipeline — including the Parallel Realities Architecture (PRA) and the ADRE Metacognitive Flywheel — validated across four case studies spanning financial forensics, hiring integrity, fraud detection, and aerospace diagnostics.
+<br>
 
-> Want to explore the underlying architectures? Most core NeuroSyn systems stay private given the sensitivity of enterprise and aerospace deployments. Reach out at **[muaviatanveer27@gmail.com](mailto:muaviatanveer27@gmail.com)** for a walkthrough or demo.
+## 🛠️ Technical Stack & Frameworks
 
-<br/>
+<table>
+<tr><td width="30%"><b>AI / LLM Orchestration</b></td><td>vLLM · Ollama · DeepSeek-R1 · Qwen2.5-Coder · Gemma-2 · LangGraph · AutoGen · Custom DAG Routers</td></tr>
+<tr><td><b>Hardware & Acceleration</b></td><td>AMD ROCm · PyTorch · Docker Sandboxing (Container Isolation) · Memory-Capped Runtimes</td></tr>
+<tr><td><b>Deterministic & Mathematical Substrates</b></td><td>Discrete Kalman Filters (DKF) · Bayesian Inference · AST Static Analysis · Jaccard Adjacency Graph Matching</td></tr>
+<tr><td><b>Full-Stack & Backend Systems</b></td><td>Python 3.11+ · Node.js (Express/Socket.io) · React.js · TailwindCSS · C++ · REST APIs</td></tr>
+<tr><td><b>Databases & Storage</b></td><td>MongoDB Atlas · Neo4j Knowledge Graphs · Redis Caching</td></tr>
+</table>
 
-## Tech Stack
+<div>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,nodejs,docker,react,tailwind,mongodb,git,github&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Hugging%20Face-161616?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/Ollama-161616?style=flat-square&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neo4j-161616?style=flat-square&logo=neo4j&logoColor=4581C3"/>
-<img src="https://img.shields.io/badge/DeepSeek-161616?style=flat-square&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/Qwen--Coder-161616?style=flat-square&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/Llama%203-161616?style=flat-square&logoColor=3B82F6"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AMD](https://img.shields.io/badge/AMD_ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 </div>
 
-<br/>
+<br>
 
-## Connect
+## 🌐 Live Portals & Platforms
+
+| Platform | Link |
+|:--|:--|
+| 🌐 Platform Showcase | [neurosyn.onrender.com](https://neurosyn.onrender.com/) |
+| 📄 Journal Affiliation | [International Journal of AI & Knowledge Engineering (IJAIKE)](https://ijaike.org/) |
+| 🏢 Commercial Entity | AAKS / Eurasia Academic Publishing Group Limited |
+
+<br>
 
 <div align="center">
 
-Open to collaborations, research partnerships, and enterprise pilots.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:181717&height=3&width=1200" width="100%">
 
-<a href="mailto:muaviatanveer27@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-3B82F6?style=for-the-badge&logoColor=white"/></a>
+### 📫 Open for research partnerships, architectural consulting, and high-compliance enterprise AI implementations
+
+**[Email](mailto:muaviakha83@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/muavia-tanveer-9a6856328/)** · **[ORCID](https://orcid.org/0009-0006-4724-4303)**
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0B&height=4&section=footer" width="100%"/>
