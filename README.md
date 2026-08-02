@@ -81,7 +81,7 @@ World Bank UNMAPPED Challenge (Informal Economy Verification) · Singapore AI Ha
 <td width="85%">
 <b>Day-Zero Audit Engine.</b> Connects to SAP RFC/BAPI interfaces, executing sandboxed Python statistical joins (<code>pandas</code>/<code>numpy</code>) and multi-agent compliance audits to collapse audit cycles from 10 days to &lt;24 hours.
 <br><br>
-<a href="https://github.com/Muaviatanveer/NeuroSyn-Dev"><img src="https://img.shields.io/badge/Repository-View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://github.com/Muaviatanveer/LogosSyn"><img src="https://img.shields.io/badge/Repository-View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
 </td>
 </tr>
 </table>
